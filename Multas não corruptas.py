@@ -11,5 +11,5 @@ elif velocidade > 100:
 if quantidade_multas > 3:
     print("Você foi multado muitas vezes o valor da multa dobrou EUR",valor_multa3)
 else:
-    print("Você foi multado EUR",valor_multa,)
+    print("Você foi multado {valor_multa} EUR")
 
